@@ -1,0 +1,35 @@
+# Projects and Portfolio
+
+You should have a portfolio.
+
+For (data) Scientists, projects and a portfolio are a great way to build and demonstrate your skills. Some of the skills you will demonstrate might seem "soft": you want to show that you've used the latest model, and a big dataset, and the interesting tools, but a plot, or an interesting anectdote about the data can be more memorable at communicating to your audience.
+
+Sometimes you will need to present to, and catch the attention of, people who for whatever reason don't want to talk about details - they might not be data scientists, they might be too busy. For these people, you can 
+
+When I was hiring data scientists, I tried to see how much they had gone beyond the homework and done their own project(s). There are a lot of skills and things you don't realize when you get a challenging and messy real world project: things like data quality, clarifying the experiment design, coming up with good parameters I like to see evidence of these. In our program students do a capstone project. If you are in a master's degree program (or an undergraduate) you might want to consider doing a thesis: sometimes you can find someone in a field that you don't work in, who just need someone to look at data with them: this situation can be ideal. 
+
+If are starting early, there's a chicken-and-egg thing to do big stuff.
+
+This blog post is about finding small and do-able projects.
+
+Replicate an older/simple research paper.
+
+As an example, we go through the Hamilton paper. Some old/classic papers can be easily reproduced, or simple algorithms can be implemented (in like an afternoon). 
+
+Replicate a current paper - papers with code?
+
+Run an existing model on a small data set.
+
+Build an end-to-end application, or a silly API.
+
+Use an API to answer a real question you have.
+
+Convince yourself something with a simulation:
+
+One of the best ML theory people I ever met, I was surprised to watch him kind of, think out loud, and some of the first things we would do is a simulation, what happens if I increase this, or as a I scale that - and then seeing how it behaved, then thinking about how to work the theory out. 
+
+Bad implementations are ok.
+
+What's the MVP - what is the smallest thing you can get running?
+
+Can you chain 3-4 APIs together to get something 

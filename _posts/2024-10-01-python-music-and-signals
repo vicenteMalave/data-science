@@ -1,6 +1,6 @@
 # Python for Signal Processing and Music 
 
-
+## Packages
 Assuming you have the basics (pandas, scikit-learn), a very good library for music processing tasks is [librosa](https://librosa.org/doc/latest/index.html).
 
 ## Courses / Books

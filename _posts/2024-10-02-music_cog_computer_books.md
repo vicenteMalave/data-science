@@ -4,10 +4,10 @@ Brief notes on books about music and music cognition. On this list are books abo
 
 ## Music Cognition in General
 
-### Music, Cognition, and Computerized Sound: An Introduction to Psychoacoustics
+### [Music, Cognition, and Computerized Sound: An Introduction to Psychoacoustics](https://direct.mit.edu/books/edited-volume/3916/Music-Cognition-and-Computerized-SoundAn)
 
 Most of the authors who contribute to this book were early computer music researchers at AT&T/Bell labs. This book is a bit more idiosyncratic that
-https://direct.mit.edu/books/edited-volume/3916/Music-Cognition-and-Computerized-SoundAn
+
 
 ### Sweet Anticipation
 I asked a music cognition researcher, if she could recommend one book, what it would be. David Huron is a well-known researcher, but this book is also very readable, written like a pop-science book

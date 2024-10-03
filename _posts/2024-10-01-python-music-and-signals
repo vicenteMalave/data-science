@@ -1,13 +1,12 @@
 # Python for Signal Processing and Music 
 
-https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html
 
-Fundamentals of Music Processing - this started as tutorials for a summer school, now jupyter notebooks, many using LibROSA.
+Assuming you have the basics (pandas, scikit-learn), a very good library for music processing tasks is [librosa](https://librosa.org/doc/latest/index.html).
 
-# Learning DSP / Signal Processing
+## Courses / Books
 
-## Digital Signals Theory
-https://brianmcfee.net/dstbook-site/content/intro.html
-These are notes for a graduate course on digital signal processing (from the author of LibROSA).
+[Fundamentals of Music Processing ](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
+
+This started as tutorials for a summer school, now jupyter notebooks, many using LibROSA.
 
 

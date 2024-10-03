@@ -11,7 +11,7 @@ Most of the authors who contribute to this book were early computer music resear
 ### [Sweet Anticipation](https://mitpress.mit.edu/9780262582780/sweet-anticipation/#:~:text=In%20unpacking%20the%20process%20of%20expectation,%20long%20understood%20to%20play)
 I asked a music cognition researcher, if she could recommend one book, what it would be. David Huron is a well-known researcher, this book is also very readable, written like a pop-science book.
 
-### [Listening - Handel}(https://mitpress.mit.edu/9780262581271/listening/#:~:text=Listening%20combines%20broad%20coverage%20of%20acoustics,%20speech%20and%20music%20perception)
+### [Listening - Handel](https://mitpress.mit.edu/9780262581271/listening/#:~:text=Listening%20combines%20broad%20coverage%20of%20acoustics,%20speech%20and%20music%20perception)
 
 This is a very in-depth text on how hearing works. In humans, this has been studied for speech and music perception, and what's cool about this book is that the authors go through both the music and speech literature. 
 

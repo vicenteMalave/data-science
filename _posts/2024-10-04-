@@ -1,8 +1,11 @@
 
 # Synthesis (Traditional) Resources
 
-The Computer Music Tutorial
+This page contains resources for traditional sound synthesis, including history of (academic) computer music. 
 
-One inspiration, and some of these books are taken from, the Valhalla DSP Blog.
-https://valhalladsp.com/2021/09/28/getting-started-with-reverb-design-part-4-books/
+[The Computer Music Tutorial](https://mitpress.mit.edu/9780262044912/the-computer-music-tutorial/#:~:text=Expanded,%20updated,%20and%20fully%20revised%E2%80%94the%20definitive%20introduction%20to%20electronic%20music) This book is now in it's second edition - the first edition was one of my favorite books in college, both an excellent overview of the literature and deep pointers to otherwise obscure papers so you can follow up in depth. Interesting that since the first edition, many of these obscure methods have been embraced by the modular synth community.
+
+One inspiration, and some of these books are taken from, the [Valhalla DSP Blog](https://valhalladsp.com/2021/09/28/getting-started-with-reverb-design-part-4-books/
+) - they are known for excellent reveb plugs, but the blog is also a fantastic (deep) source on how these things actually work/are implemented.
+
 
